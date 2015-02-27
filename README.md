@@ -1,4 +1,5 @@
 CS324 - Skripting Jezici
 =====
 
-[Absolute README link](https://github.com/<em>username</em>/<em>repo</em>/blob/branch/docs/more_words.md)
+Delovi skripti koje su rađene na vežbama:
+[Gist Link](https://gist.github.com/Miksiii)
