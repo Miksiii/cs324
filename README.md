@@ -17,7 +17,7 @@ Lista trenutno dostupnih predavanja u .pdf formatu nalazi se na sledećem linku:
 
 Lista trenutno dostupnih vežbi u .doc formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Vežbe)
 
-Najbitniji delovi skripti koje budu bile rađene za vreme vežbi biće hostovane na Gistu. Ove skripte se nalaze na adresi: <br/>
+Najbitniji delovi skripti koje budu bile rađene za vreme vežbi biće hostovane na Gistu na sledećem linku: <br/>
 
 `https://gist.github.com/Miksiii/`
 
