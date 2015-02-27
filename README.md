@@ -1,5 +1,18 @@
-CS324 - Skripting Jezici
+cs324-scripty
 =====
 
-Delovi skripti koje su rađene na vežbama:
-[Gist Link](https://gist.github.com/Miksiii)
+Repozitorijum je napravljen za potrebe predmeta <b>skripting jezici</b> koji 
+slušaju studenti druge i treće godine OAS IT.
+
+Sadržaj
+
+cs324-scripty sadrži materijale koji omogućavaju lakše praćenje, upravljanje i 
+deljenje. Neki od njih su:
+
+- Domaći Zadaci
+- Predavanja
+- Vežbe
+
+note: uskoro dodaci za projekte, naprednije skripte i reference ka interesantnim
+sadržajima za potrebe ovog predmeta.
+
