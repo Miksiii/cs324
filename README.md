@@ -17,14 +17,18 @@ Lista trenutno dostupnih predavanja u .pdf formatu nalazi se na sledećem linku:
 
 Lista trenutno dostupnih vežbi u .doc formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Vežbe)
 
-Najbitniji delovi skripti koje budu bile rađene za vreme vežbi biće hostovane na Gistu na adresi: <br/>
+Najbitniji delovi skripti koje budu bile rađene za vreme vežbi biće hostovane na Gistu. Ove skripte se nalaze na adresi: <br/>
 
 `https://gist.github.com/Miksiii/`
 
 
 <h4>Domaći Zadaci</h4>
 
-Lista trenutno dostupnih domaćih zadataka u .doc formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Doma%C4%87i%20Zadaci)
+Lista trenutno dostupnih domaćih zadataka u .doc formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Doma%C4%87i%20Zadaci) 
+
+Svaki od dostupnih zadataka je potrebno uraditi do 10 dana pred ispit. Zadaci se šalju na adresu: 
+
+`milan.hakaj@metropolitan.ac.rs`
 
 <i>Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
 za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
