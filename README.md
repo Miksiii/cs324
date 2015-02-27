@@ -9,7 +9,7 @@ Repozitorijum na kome se trenutno nalazite napravljen je za potrebe (vežbi) pre
 cs324-scripty ima za cilj da omogući lakše praćenje, upravljanje i deljenje sadržaja
 za potrebe ovog predmeta. Neki od glavnih delova su:
 
-- Domaći Zadaci
+<h3>Domaći Zadaci<h3>
 - Predavanja
 - Vežbe
 
