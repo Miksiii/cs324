@@ -6,17 +6,15 @@ Repozitorijum na kome se trenutno nalazite napravljen je za potrebe (vežbi) pre
 
 <h2>Sadržaj</h2>
 
-Sadržaj
-=====
-
-
-cs324-scripty sadrži materijale koji omogućavaju lakše praćenje, upravljanje i 
-deljenje. Neki od njih su:
+cs324-scripty ima za cilj da omogući lakše praćenje, upravljanje i deljenje sadržaja
+za potrebe ovog predmeta. Neki od glavnih delova su:
 
 - Domaći Zadaci
 - Predavanja
 - Vežbe
 
-note: uskoro dodaci za projekte, naprednije skripte i reference ka interesantnim
-sadržajima za potrebe ovog predmeta.
+<b><i>napomena:</i></b> Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
+za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
+za potrebe ovog predmeta.
+
 
