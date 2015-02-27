@@ -13,8 +13,10 @@ za potrebe ovog predmeta. Neki od glavnih delova su:
 - Predavanja
 - Vežbe
 
-<b><i>napomena:</i></b> Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
+<i>Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
 za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
-za potrebe ovog predmeta.
+za potrebe ovog predmeta.</i>
+
+
 
 
