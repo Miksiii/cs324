@@ -11,7 +11,7 @@ za potrebe ovog predmeta. Neki od glavnih delova su:
 
 <h4>Predavanja</h4>
 
-Markup :  Common text
+Markup :  `code()`
 <h4>Vežbe</h4>
 <h4>Domaći Zadaci</h4>
 
