@@ -11,7 +11,7 @@ za potrebe ovog predmeta. Neki od glavnih delova su:
 
 <h4>Predavanja</h4>
 
-Lista trenutno dostupnih predavanja u .pdf formatu nalazi se na sledećem linku: [cs324-px!](https://github.com/Miksiii/cs324-scripty/tree/master/Predavanja)
+Lista trenutno dostupnih predavanja u .pdf formatu nalazi se na sledećem linku: [cs324-px](https://github.com/Miksiii/cs324-scripty/tree/master/Predavanja)
 
 <h4>Vežbe</h4>
 
