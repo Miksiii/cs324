@@ -11,18 +11,17 @@ za potrebe ovog predmeta. Neki od glavnih delova su:
 
 <h4>Predavanja</h4>
 
-[15 nedelja predavanja u .pdf formatu:](https://github.com/Miksiii/cs324-scripty/tree/master/Predavanja)
+Lista trenutno dostupnih predavanja u .pdf formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Predavanja)
 
 <h4>Vežbe</h4>
 
-[15 nedelja vezbi u .pdf formatu:](https://github.com/Miksiii/cs324-scripty/tree/master/Vežbe)
+Lista trenutno dostupnih vežbi u .doc formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Vežbe)
 
-https://github.com/Miksiii/cs324-scripty/tree/master/Doma%C4%87i%20Zadaci
 
 
 <h4>Domaći Zadaci</h4>
 
-[15 domaćih zadataka:](https://github.com/Miksiii/cs324-scripty/tree/master/Doma%C4%87i%20Zadaci)
+Lista trenutno dostupnih domaćih zadataka u .doc formatu nalazi se na sledećem linku: [Go for it!:](https://github.com/Miksiii/cs324-scripty/tree/master/Doma%C4%87i%20Zadaci)
 
 <i>Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
 za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
