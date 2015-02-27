@@ -11,7 +11,8 @@ za potrebe ovog predmeta. Neki od glavnih delova su:
 
 <h4>Predavanja</h4>
 
-Markup :  `code()`
+Predavanja su postavljena u .pdf formatu :
+`https://github.com/Miksiii/cs324-scripty/tree/master/Predavanja`
 <h4>Vežbe</h4>
 <h4>Domaći Zadaci</h4>
 
