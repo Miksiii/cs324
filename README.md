@@ -1,10 +1,9 @@
 cs324-scripty
 =====
 
-Repozitorijum je napravljen za potrebe predmeta <b>skripting jezici</b> koji 
+Cs324-scripty repozitorijum je napravljen za potrebe vežbi na predmetu <b>skripting jezici</b> koji 
 slušaju studenti druge i treće godine OAS IT.
 
-Sadržaj
 
 cs324-scripty sadrži materijale koji omogućavaju lakše praćenje, upravljanje i 
 deljenje. Neki od njih su:
