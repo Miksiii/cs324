@@ -26,8 +26,6 @@ Najbitniji delovi skripti koje budu bile rađene za vreme vežbi biće hostovane
 
 Lista trenutno dostupnih domaćih zadataka u .doc formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Doma%C4%87i%20Zadaci) 
 
-Svaki od dostupnih zadataka je potrebno uraditi do 10 dana pred ispit. Zadaci se šalju na adresu: `milan.hakaj@metropolitan.ac.rs`
-
 <i>Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
 za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
 za potrebe ovog predmeta.</i>
