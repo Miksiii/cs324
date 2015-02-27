@@ -11,11 +11,18 @@ za potrebe ovog predmeta. Neki od glavnih delova su:
 
 <h4>Predavanja</h4>
 
-Predavanja su postavljena u .pdf formatu :
+15 nedelja predavanja postavljena u .pdf formatu: <br/>
+
 `https://github.com/Miksiii/cs324-scripty/tree/master/Predavanja`
+
 <h4>Vežbe</h4>
+
+15 nedelja vežbi što uključuje i skripte su postavljene u .doc .script formatu:
+
+
 <h4>Domaći Zadaci</h4>
 
+15 domaćih zadataka biće postavljeno u .doc formatu:
 
 <i>Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
 za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
