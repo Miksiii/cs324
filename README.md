@@ -9,11 +9,12 @@ Repozitorijum na kome se trenutno nalazite napravljen je za potrebe (vežbi) pre
 cs324-scripty ima za cilj da omogući lakše praćenje, upravljanje i deljenje sadržaja
 za potrebe ovog predmeta. Neki od glavnih delova su:
 
-<h3>Domaći Zadaci<h3>
-<h4>Vežbe</h4>
+<h4>Predavanja</h4>
 
-- Predavanja
-- Vežbe
+Markup :  Common text
+<h4>Vežbe</h4>
+<h4>Domaći Zadaci</h4>
+
 
 <i>Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
 za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
