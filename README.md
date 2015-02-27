@@ -13,7 +13,7 @@ za potrebe ovog predmeta. Neki od glavnih delova su:
 
 15 nedelja predavanja postavljena u .pdf formatu: <br/>
 
-`https://github.com/Miksiii/cs324-scripty/tree/master/Predavanja`
+`[Absolute README link](https://github.com/<em>username</em>/<em>repo</em>/blob/branch/docs/more_words.md)`
 
 <h4>Vežbe</h4>
 
