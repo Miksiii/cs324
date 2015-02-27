@@ -11,11 +11,11 @@ za potrebe ovog predmeta. Neki od glavnih delova su:
 
 <h4>Predavanja</h4>
 
-Lista trenutno dostupnih predavanja u .pdf formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Predavanja)
+Lista trenutno dostupnih predavanja u .pdf formatu nalazi se na sledećem linku: [cs324-px!](https://github.com/Miksiii/cs324-scripty/tree/master/Predavanja)
 
 <h4>Vežbe</h4>
 
-Lista trenutno dostupnih vežbi u .doc formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Vežbe)
+Lista trenutno dostupnih vežbi u .doc formatu nalazi se na sledećem linku: [cs324-vx](https://github.com/Miksiii/cs324-scripty/tree/master/Vežbe)
 
 Najbitniji delovi skripti koje budu bile rađene za vreme vežbi biće hostovane na Gistu na sledećem linku: <br/>
 
@@ -24,7 +24,7 @@ Najbitniji delovi skripti koje budu bile rađene za vreme vežbi biće hostovane
 
 <h4>Domaći Zadaci</h4>
 
-Lista trenutno dostupnih domaćih zadataka u .doc formatu nalazi se na sledećem linku: [Go for it!](https://github.com/Miksiii/cs324-scripty/tree/master/Doma%C4%87i%20Zadaci) 
+Lista trenutno dostupnih domaćih zadataka u .doc formatu nalazi se na sledećem linku: [cs324-zx](https://github.com/Miksiii/cs324-scripty/tree/master/Doma%C4%87i%20Zadaci) 
 
 <i>Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
 za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
