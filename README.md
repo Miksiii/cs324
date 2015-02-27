@@ -10,6 +10,8 @@ cs324-scripty ima za cilj da omogući lakše praćenje, upravljanje i deljenje s
 za potrebe ovog predmeta. Neki od glavnih delova su:
 
 <h3>Domaći Zadaci<h3>
+<h4>Vežbe</h4>
+
 - Predavanja
 - Vežbe
 
