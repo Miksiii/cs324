@@ -26,14 +26,14 @@ Najbitniji delovi skripti koje budu bile rađene za vreme vežbi biće hostovane
 
 Lista trenutno dostupnih domaćih zadataka u .doc formatu nalazi se na sledećem linku: [cs324-zx](https://github.com/Miksiii/cs324-scripty/tree/master/Doma%C4%87i%20Zadaci) 
 
+<i>Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
+za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
+za potrebe ovog predmeta.</i>
+
 
 <h2>LAMS</h2>
 
 Postoje neke stvari koje novac ne može da kupi, za sve ostalo tu je [LAMS](http://lams.metropolitan.ac.rs:8080/lams/index.do) ili [exLAMS](http://exlms.metropolitan.ac.rs:8080/lams/index.do) preko kojih ćete pronaći zvanične materijale za ovaj predmet. 
-
-<i>Uskoro će se u okviru ovog repozitorijuma nalaziti dodaci 
-za projektne zadatke, neke naprednije skripte kao i reference ka interesantnim sadržajima
-za potrebe ovog predmeta.</i>
 
 
 
