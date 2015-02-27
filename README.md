@@ -1,6 +1,4 @@
 CS324 - Skripting Jezici
 =====
 
-Metropolitan University #CS324 course.
-
-*https://gist.github.com/Miksiii
+[Absolute README link](https://github.com/<em>username</em>/<em>repo</em>/blob/branch/docs/more_words.md)
