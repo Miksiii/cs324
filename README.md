@@ -43,3 +43,18 @@ Svaki programer ima specifičan način razmišljanja kao i pisanja odnosno forma
 <h3>Zlatna pravila Perla</h3>
 
 Najvažnija stvar je prisutnost perl pragme koja obuhvata <b>stricts</b> i <b>warnings</b> module. Ovi moduli se mogu povremeno isključivati za pojedine delove koda ali bi trebali biti uvek prisutni. Pored toga, potrebno je slediti sledeća pravila:
+
+- Identacija na nivou 2 ili 4 kolone
+- Otvaranje vitičastih zagrada na kraju iste linije ukoliko je to moguće
+- Razmak pre otvaranja vitičastih zagrada za multi-line blokove
+- Blok od jedne linije koda se može smestiti u jednu liniju uključujući vitičaste zagrade
+- Bez razmaka pre tačke-zareza
+- Izostaviti tačku-zarez na kraju single-line bloka
+- Razmak nakon svakog operatora
+- Razmak nakon "složenih" podskripti u okviru zagrada
+- Prazna linija između delova koji rade različite stvari
+- Bez razmaka između imena potprograma i njegovih zagrada
+- Razmak nakon svake tačke
+- Duže linije je potrebno prelomiti nakon operatora (ne uključujući AND i OR)
+- Vertikalno poravnavanje stavki
+- Izostavljati suvišne znakove interpunkcija
