@@ -7,7 +7,7 @@ Repozitorijum u kome se trenutno nalazite napravljen je za potrebe (vežbi) pred
 <h2>Sadržaj</h2>
 
 cs324-scripty ima za cilj da omogući lakše praćenje, upravljanje i deljenje sadržaja
-za potrebe ovog predmeta. Neki od glavnih delova su:
+za potrebe ovog predmeta. Glavni delovi repozitorijuma su:
 
 <h4>Predavanja</h4>
 
