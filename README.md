@@ -33,7 +33,7 @@ za potrebe ovog predmeta.</i>
 
 <h2>LAMS</h2>
 
-Postoje neke stvari koje novac ne može da kupi, za sve ostalo tu je [LAMS](http://lams.metropolitan.ac.rs:8080/lams/index.do) ili [exLAMS](http://exlms.metropolitan.ac.rs:8080/lams/index.do) preko kojih ćete pronaći zvanične materijale za ovaj predmet. 
+Postoje neke stvari koje novac ne može da kupi, za sve ostalo tu je [LAMS](http://lams.metropolitan.ac.rs:8080/lams/index.do) i [exLAMS](http://exlms.metropolitan.ac.rs:8080/lams/index.do) preko kojih ćete pronaći zvanične materijale za ovaj predmet. 
 
 
 
