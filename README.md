@@ -40,7 +40,7 @@ Postoje neke stvari koje novac ne može da kupi, za sve ostalo tu je [LAMS](http
 
 Svaki programer ima specifičan način razmišljanja kao i pisanja odnosno formatiranja izvornog koda. Kako bismo se uskladili sa dobrom programerskom praksom za svaki od skripting jezika potrebno je da se pridržavamo zlatnih pravila pisanja koda.
 
-<h3>Zlatna pravila Perla</h3>
+<h4>Zlatna pravila Perla</h4>
 
 Najvažnija stvar je prisutnost perl pragme koja obuhvata <b>stricts</b> i <b>warnings</b> module. Ovi moduli se mogu povremeno isključivati za pojedine delove koda ali bi trebali biti uvek prisutni. Pored toga, potrebno je slediti sledeća pravila:
 
