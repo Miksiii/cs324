@@ -58,3 +58,14 @@ Najvažnija stvar je prisutnost perl pragme koja obuhvata <b>stricts</b> i <b>wa
 - Duže linije je potrebno prelomiti nakon operatora (ne uključujući AND i OR)
 - Vertikalno poravnavanje stavki
 - Izostavljati suvišne znakove interpunkcija
+
+<h4>Zlatna pravila Rubija</h4>
+
+- Karakteri razmaka poput blank karaktera i tabova su obično ignorisani od strane Rubija osim u slucajevima kada se oni 
+nalaze u okviru stringova.
+
+- Rubi već interpretira tačku-zarez (;) kao kraj izjave pa ona ne mora biti prisutna.
+
+- Identifikatori su imena promenljivih, konstanti i metoda koji su kejs senzitivni.
+
+- Ruby komentari pocinju sa # karakterom i zavrsavaju se na kraju linije.
